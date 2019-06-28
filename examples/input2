@@ -1,0 +1,1 @@
+./assembler good_asm bad_asm2 good_asm3 > output2 2>&1
